@@ -7,7 +7,6 @@ UP = 90
 LEFT = 180
 DOWN = 270
 
-
 class Snake:
 
     def __init__(self):
