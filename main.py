@@ -15,7 +15,7 @@ def screen_setup():
     my_screen.bgcolor("black")
     my_screen.tracer(0)
 
-
+# snake moves UP DOWN RIGHT LEFT
 def snake_moves():
 
     snk = Snake()
